@@ -23,8 +23,8 @@ Dados $\displaystyle P(x_{0},y_{0})$ para llegar a $\displaystyle P(x_{1},y_{1})
 el robot debe girar y lo que tiene que avanzar para llegar a su destino.
 
 El robot primero gira y luego avanza. 
-El angulo $\displaystyle \theta $ se calcula de la siguiente forma:
+El angulo $\displaystyle \theta$ se calcula de la siguiente forma:
 $\displaystyle \theta =\arctan\left(\frac{y_{1} -y_{0}}{x_{1} -x_{0}}\right)$
 
 Posteriormente, debe avanzar una distancia:
-$\displaystyle \sqrt{(x_{1}-x_{0})\power{2}+(y_{1}-y_{0})\power{2}}$
+$\displaystyle \sqrt{(x_{1}-x_{0})^{2}+(y_{1}-y_{0})^{2}}$
