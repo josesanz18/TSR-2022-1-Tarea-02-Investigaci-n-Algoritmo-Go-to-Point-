@@ -31,7 +31,7 @@ Posteriormente, debe avanzar una distancia:
 $$\displaystyle \sqrt{(x_{1}-x_{0})^{2}+(y_{1}-y_{0})^{2}}$$
 
 ### Función atan2
-Las ventajas de usar atan2 es que nos permite tener un dominio de $\displaystyle -\pi$ a $\displaystile \pi$, siendo muy útil en la transformación de coordenadas cartesianas a polares
+Las ventajas de usar atan2 es que nos permite tener un dominio de $\displaystyle -\pi$ a $\displaystyle \pi$, siendo muy útil en la transformación de coordenadas cartesianas a polares
 
 ### Orientacion en P1
 Para lograr llegar al punto destino con una orientación definida, sería necesario emplear el mismo algoritmo planteado anteriormente, y agregar un giro cuando ya haya alcanzado el punto.
