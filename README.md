@@ -19,7 +19,7 @@ Contestar a as preguntas:
 ¿A que tribuye los errores de orientación y distancia que se producen durante el movimiento?
 
 ## Desarrollo
-Dados $\math-container{P(x\index{0},y\index{0})}$ para llegar a \math-container{P(x\index{1},y\index{1})} se desea saber el ángulo que
+Dados $\displaystyle P(x\index{0},y\index{0})}$ para llegar a \math-container{P(x\index{1},y\index{1}) se desea saber el ángulo que
 el robot debe girar y lo que tiene que avanzar para llegar a su destino.
 
 El robot primero gira y luego avanza. 
@@ -27,4 +27,4 @@ El angulo $\displaystyle \theta $ se calcula de la siguiente forma:
 $\displaystyle \theta =\arctan\left(\frac{y_{1} -y_{0}}{x_{1} -x_{0}}\right)$
 
 Posteriormente, debe avanzar una distancia:
-$\math-container{\sqrt{(x\index{1}-x\index{0})\power{2}+(y\index{1}-y\index{0})\power{2}}}$
+$\displaystyle \sqrt{(x\index{1}-x\index{0})\power{2}+(y\index{1}-y\index{0})\power{2}}$
