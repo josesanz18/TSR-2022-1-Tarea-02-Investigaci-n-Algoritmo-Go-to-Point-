@@ -1,0 +1,1 @@
+# TSR-2022-1-Tarea-02-Investigaci-n-Algoritmo-Go-to-Point-
