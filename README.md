@@ -37,8 +37,9 @@ Las ventajas de usar atan2 es que nos permite tener un dominio de $\displaystyle
 Para lograr llegar al punto destino con una orientación definida, sería necesario emplear el mismo algoritmo planteado anteriormente, y agregar un giro cuando ya haya alcanzado el punto.
 
 ## Autor
-** Sánchez Espinosa José Manuel ** [Git hub profile](https://github.com/josesanz18)
+**Sánchez Espinosa José Manuel** [Git hub profile](https://github.com/josesanz18)
 
 ## Referencias
-[1] J.Savage, Lección 8: Navegando a lo largo de una secuencia de líneas rectas. Available: https://biorobotics.fi-p.unam.mx/wp-content/uploads/Courses/robots_moviles/2020_2/lecciones/Leccion8_robots_moviles_2020_2.pdf
+[1] J.Savage, Lección 8: Navegando a lo largo de una secuencia de líneas rectas. Available: https://biorobotics.fi-p.unam.mx/wp-content/uploads/Courses/robots_moviles/2020_2/lecciones/Leccion8_robots_moviles_2020_2.pdf  
+
 [2] ESRI, Función ATan2. Available: https://pro.arcgis.com/es/pro-app/latest/help/analysis/raster-functions/atan2-function.htm#:~:text=La%20funci%C3%B3n%20ATan2%20convierte%20las,de%20coordenadas%20rectangulares%20a%20polares.&text=(donde%20%CE%B8%20es%20el%20%C3%A1ngulo).
