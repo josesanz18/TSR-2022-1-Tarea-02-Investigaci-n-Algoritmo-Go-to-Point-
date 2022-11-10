@@ -36,6 +36,9 @@ Las ventajas de usar atan2 es que nos permite tener un dominio de $\displaystyle
 ### Orientacion en P1
 Para lograr llegar al punto destino con una orientación definida, sería necesario emplear el mismo algoritmo planteado anteriormente, y agregar un giro cuando ya haya alcanzado el punto.
 
+### Errores
+Los errores atribuibles son debido al sensado de la posisión del robot, así como el movimiento mismo del robot
+
 ## Autor
 **Sánchez Espinosa José Manuel** [Git hub profile](https://github.com/josesanz18)
 
