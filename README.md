@@ -24,7 +24,14 @@ el robot debe girar y lo que tiene que avanzar para llegar a su destino.
 
 El robot primero gira y luego avanza. 
 El angulo $\displaystyle \theta$ se calcula de la siguiente forma:
-$\displaystyle \theta =\arctan\left(\frac{y_{1} -y_{0}}{x_{1} -x_{0}}\right)$
+$$\displaystyle \theta =\arctan\left(\frac{y_{1} -y_{0}}{x_{1} -x_{0}}\right)$$
 
 Posteriormente, debe avanzar una distancia:
-$\displaystyle \sqrt{(x_{1}-x_{0})^{2}+(y_{1}-y_{0})^{2}}$
+$$\displaystyle \sqrt{(x_{1}-x_{0})^{2}+(y_{1}-y_{0})^{2}}$$
+
+Las ventajas de usar atan2 es que nos permite tener un dominio de $\displaystyle -\pi$ a $\displaystile \pi$, siendo muy útil en la transformación de coordenadas cartesianas a polares
+
+##Autor
+**Autor** Sánchez Espinosa José Manuel [Git hub profile](https://github.com/josesanz18)
+
+##Referencias
