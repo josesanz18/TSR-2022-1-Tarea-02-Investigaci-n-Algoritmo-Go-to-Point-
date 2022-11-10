@@ -19,7 +19,7 @@ Contestar a as preguntas:
 ¿A que tribuye los errores de orientación y distancia que se producen durante el movimiento?
 
 ## Desarrollo
-Dados $\displaystyle P(x\index{0},y\index{0})}$ para llegar a \math-container{P(x\index{1},y\index{1}) se desea saber el ángulo que
+Dados $\displaystyle P(x\index{0},y\index{0})$ para llegar a $\displaystyle{P(x\index{1},y\index{1})$ se desea saber el ángulo que
 el robot debe girar y lo que tiene que avanzar para llegar a su destino.
 
 El robot primero gira y luego avanza. 
