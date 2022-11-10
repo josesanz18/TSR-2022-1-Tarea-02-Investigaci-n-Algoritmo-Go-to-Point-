@@ -19,6 +19,7 @@ Contestar a as preguntas:
 ¿A que tribuye los errores de orientación y distancia que se producen durante el movimiento?
 
 ## Desarrollo
+### Algoritmo Go to point
 Dados $\displaystyle P(x_{0},y_{0})$ para llegar a $\displaystyle P(x_{1},y_{1})$ se desea saber el ángulo que
 el robot debe girar y lo que tiene que avanzar para llegar a su destino.
 
@@ -29,9 +30,13 @@ $$\displaystyle \theta =\arctan\left(\frac{y_{1} -y_{0}}{x_{1} -x_{0}}\right)$$
 Posteriormente, debe avanzar una distancia:
 $$\displaystyle \sqrt{(x_{1}-x_{0})^{2}+(y_{1}-y_{0})^{2}}$$
 
+### Función atan2
 Las ventajas de usar atan2 es que nos permite tener un dominio de $\displaystyle -\pi$ a $\displaystile \pi$, siendo muy útil en la transformación de coordenadas cartesianas a polares
 
-##Autor
+### Orientacion en P1
+Para lograr llegar al punto destino con una orientación definida, sería necesario emplear el mismo algoritmo planteado anteriormente, y agregar un giro cuando ya haya alcanzado el punto.
+
+## Autor
 **Autor** Sánchez Espinosa José Manuel [Git hub profile](https://github.com/josesanz18)
 
 ##Referencias
